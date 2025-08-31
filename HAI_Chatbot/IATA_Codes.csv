@@ -1,0 +1,105 @@
+Country,City,Airport Name,IATA Code
+Afghanistan,Kabul,Hamid Karzai International Airport,Kbl
+Albania,Tirana,Tirana International Airport Nënë Tereza,Tia
+Algeria,Algiers,Houari Boumediene Airport,Alg
+Andorra,Andorra La Vella,Andorra–La Seu D'Urgell Airport,Leu
+Angola,Luanda,Quatro De Fevereiro Airport,Lad
+Antigua And Barbuda,Saint John'S,V. C. Bird International Airport,Anu
+Argentina,Buenos Aires,Ministro Pistarini International Airport,Eze
+Armenia,Yerevan,Zvartnots International Airport,Evn
+Australia,Sydney,Sydney Kingsford Smith Airport,Syd
+Austria,Vienna,Vienna International Airport,Vie
+Azerbaijan,Baku,Heydar Aliyev International Airport,Gyd
+Bahamas,Nassau,Lynden Pindling International Airport,Nas
+Bahrain,Manama,Bahrain International Airport,Bah
+Bangladesh,Dhaka,Hazrat Shahjalal International Airport,Dac
+Barbados,Bridgetown,Grantley Adams International Airport,Bgi
+Belarus,Minsk,Minsk National Airport,Msq
+Belgium,Brussels,Brussels Airport,Bru
+Belize,Belize City,Philip S. W. Goldson International Airport,Bze
+Benin,Cotonou,Cadjehoun Airport,Coo
+Bhutan,Paro,Paro Airport,Pbh
+Bolivia,La Paz,El Alto International Airport,Lpb
+Bosnia And Herzegovina,Sarajevo,Sarajevo International Airport,Sjj
+Botswana,Gaborone,Sir Seretse Khama International Airport,Gbe
+Brazil,São Paulo,Guarulhos International Airport,Gru
+Brunei,Bandar Seri Begawan,Brunei International Airport,Bwn
+Bulgaria,Sofia,Sofia Airport,Sof
+Burkina Faso,Ouagadougou,Thomas Sankara International Airport,Oua
+Burundi,Bujumbura,Melchior Ndadaye International Airport,Bjm
+Cabo Verde,Sal Island,Amílcar Cabral International Airport,Sid
+Cambodia,Phnom Penh,Phnom Penh International Airport,Pnh
+Cameroon,Douala,Douala International Airport,Dla
+Canada,Toronto,Toronto Pearson International Airport,Yyz
+Central African Republic,Bangui,Bangui M'Poko International Airport,Bgf
+Chad,N'Djamena,N'Djamena International Airport,Ndj
+Chile,Santiago,Comodoro Arturo Merino Benítez International Airport,Scl
+China,Beijing,Beijing Capital International Airport,Pek
+Colombia,Bogotá,El Dorado International Airport,Bog
+Comoros,Moroni,Prince Said Ibrahim International Airport,Hah
+Congo,Brazzaville,Maya-Maya Airport,Bzv
+Costa Rica,San José,Juan Santamaría International Airport,Sjo
+Croatia,Zagreb,Zagreb Airport,Zag
+Cuba,Havana,José Martí International Airport,Hav
+Cyprus,Larnaca,Larnaca International Airport,Lca
+Czech Republic,Prague,Václav Havel Airport Prague,Prg
+Denmark,Copenhagen,Copenhagen Airport,Cph
+Djibouti,Djibouti,Djibouti–Ambouli International Airport,Jib
+Dominica,Roseau,Douglas–Charles Airport,Dom
+Dominican Republic,Santo Domingo,Las Américas International Airport,Sdq
+East Timor,Dili,Presidente Nicolau Lobato International Airport,Dil
+Ecuador,Quito,Mariscal Sucre International Airport,Uio
+Egypt,Cairo,Cairo International Airport,Cai
+El Salvador,San Salvador,El Salvador International Airport,Sal
+Equatorial Guinea,Malabo,Malabo International Airport,Ssg
+Eritrea,Asmara,Asmara International Airport,Asm
+Estonia,Tallinn,Lennart Meri Tallinn Airport,Tll
+Eswatini,Manzini,King Mswati Iii International Airport,Sho
+Ethiopia,Addis Ababa,Addis Ababa Bole International Airport,Add
+Fiji,Nadi,Nadi International Airport,Nan
+Finland,Helsinki,Helsinki-Vantaa Airport,Hel
+France,Paris,Charles De Gaulle Airport,Cdg
+Gabon,Libreville,Léon-Mba International Airport,Lbv
+Gambia,Banjul,Banjul International Airport,Bjl
+Georgia,Tbilisi,Tbilisi International Airport,Tbs
+Germany,Frankfurt,Frankfurt Airport,Fra
+Ghana,Accra,Kotoka International Airport,Acc
+Greece,Athens,Eleftherios Venizelos Airport,Ath
+Grenada,St. George'S,Maurice Bishop International Airport,Gnd
+Guatemala,Guatemala City,La Aurora International Airport,Gua
+Guinea,Conakry,Conakry International Airport,Cky
+Guinea-Bissau,Bissau,Osvaldo Vieira International Airport,Oxb
+Guyana,Georgetown,Cheddi Jagan International Airport,Geo
+Haiti,Port-Au-Prince,Toussaint Louverture International Airport,Pap
+Honduras,Tegucigalpa,Toncontín International Airport,Tgu
+Hungary,Budapest,Budapest Ferenc Liszt International Airport,Bud
+Iceland,Reykjavík,Keflavík International Airport,Kef
+India,New Delhi,Indira Gandhi International Airport,Del
+Indonesia,Jakarta,Soekarno–Hatta International Airport,Cgk
+Iran,Tehran,Imam Khomeini International Airport,Ika
+Iraq,Baghdad,Baghdad International Airport,Bgw
+Ireland,Dublin,Dublin Airport,Dub
+Israel,Tel Aviv,Ben Gurion Airport,Tlv
+Italy,Rome,Leonardo Da Vinci–Fiumicino Airport,Fco
+Jamaica,Kingston,Norman Manley International Airport,Kin
+Japan,Tokyo,Tokyo Haneda Airport,Hnd
+Jordan,Amman,Queen Alia International Airport,Amm
+Kazakhstan,Almaty,Almaty International Airport,Ala
+Kenya,Nairobi,Jomo Kenyatta International Airport,Nbo
+Kiribati,South Tarawa,Bonriki International Airport,Trw
+Kuwait,Kuwait City,Kuwait International Airport,Kwi
+Kyrgyzstan,Bishkek,Manas International Airport,Fru
+Laos,Vientiane,Wattay International Airport,Vte
+Latvia,Riga,Riga International Airport,Rix
+Lebanon,Beirut,Beirut–Rafic Hariri International Airport,Bey
+Lesotho,Maseru,Moshoeshoe I International Airport,Msu
+Liberia,Monrovia,Roberts International Airport,Rob
+Libya,Tripoli,Mitiga International Airport,Mji
+Liechtenstein,Zurich,Zurich Airport,Zrh
+Lithuania,Vilnius,Vilnius Airport,Vno
+Luxembourg,Luxembourg City,Luxembourg Airport,Lux
+Madagascar,Ant,Unknown Airport,XXX
+UK,London,London Heathrow, LHR
+USA,New York, John F. Kennedy International Airport, JFK
+
+::Contentreference[Oaicite:0]{Index=0},Unknown City,Unknown Airport,XXX

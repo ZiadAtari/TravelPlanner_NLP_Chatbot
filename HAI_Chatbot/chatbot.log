@@ -1,0 +1,6 @@
+2024-12-11 00:12:44,778 - ERROR - Error in handle_user_input: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-12-11 00:15:12,054 - ERROR - Error in handle_user_input: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-12-11 00:18:08,186 - ERROR - Error in handle_user_input: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-12-11 01:39:03,033 - ERROR - Error in handle_user_input: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-12-11 01:52:31,320 - ERROR - Error in handle_user_input: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-12-11 17:22:44,489 - ERROR - Error in handle_user_input: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
