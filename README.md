@@ -50,8 +50,4 @@ Start the chatbot:
 
 ```
 python main.py
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> 79d571fe9b417a8f604afa00bc6a22a644350a42
